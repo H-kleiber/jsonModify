@@ -6,7 +6,7 @@
         "descripcion": "Combo Tártara: Hamburguesa con salsa tártara + papas fritas ",
         "contenido":"Pide tu Combo Tártara Bembos ya. Disfruta de tu Hamburguesa preferida con nuestra Tártara Bembos especial a un precio único.Incluye:1 Hamburguesa Tártara Regular: Papas al hilo, carne a la parrilla y salsa tártara. 1 Papas Fritas Regular",
         "precio":11.90 ,
-        "img":"./img/combo-tartara.webp",
+        "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/combo-tartara.webp?alt=media&token=3cb20fbb-ff48-484b-b243-103d652feb89",
         "categoria": "promociones"
       },
       {
@@ -15,7 +15,7 @@
           "descripcion": "Combo Cheese: Hamburguesa con queso con papas",
           "contenido":" Disfruta de una clásica hamburguesa a la parrilla con queso, lechuga y tomate. Acompañada de unas papas fritas medianas. Agrándalas y disfruta con la bebida de tu elección.Mayonesa x1, Ketchup x1, Ají Bembos x1",
           "precio": 11.90,
-          "img":"./img/combo-cheese-800x800.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/combo-cheese-800x800.webp?alt=media&token=23d60577-4587-471b-83c5-c9a4951c680e",
           "categoria": "promociones"
         },
         {
@@ -24,7 +24,7 @@
           "descripcion": "35% dto A lo Pobre + Inca Kola",
           "contenido":"1 A lo pobre mediana + 1 Inca Kola de regalo",
           "precio": 13.90,
-          "img":"./img/800x800-a-lo-pobre-gaseosa.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/800x800-a-lo-pobre-gaseosa.webp?alt=media&token=12d13d6a-8cc3-4d6c-a04b-781f6956fa5d",
           "categoria": "promociones"
         },
         {
@@ -33,7 +33,7 @@
           "descripcion": "Combo Nuggets de Pollo",
           "contenido":"Pide ahora unos deliciosos y crujientes Nuggets de Pollo. Tu Combo de Nuggets con deliciosas cremas que no pueden faltar.",
           "precio": 14.90,
-          "img":"./img/combo-nuggets-pollo.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/combo-nuggets-pollo.webp?alt=media&token=1852a679-1732-450b-8d5e-9fe34660543e",
           "categoria": "promociones"
         },
         {
@@ -42,7 +42,7 @@
           "descripcion": "Combo Personal Clásico: Hamburguesa Clásica con Papas",
           "contenido":"¡Llévate tu clásica hamburguesa con papas! Incluye:1 Hamburguesa a la Parrilla Clásica Mediana, Papas Medianas, Mayonesa x2, Ketchup x2, Ají Bembos x2",
           "precio": 15.90,
-          "img":"./img/personal-clasico_3.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/personal-clasico_3.webp?alt=media&token=9cf4aabb-e7c7-4d02-b2a9-02a458bbee97",
           "categoria": "promociones"
         },
         {
@@ -51,7 +51,7 @@
           "descripcion": "Combo Personal Clásico: Hamburguesa Clásica con Papas",
           "contenido":"¡Disfruta de nuestra famosa hamburguesa con mayonesa de chimichurri con la promo Churrita! Contiene:1 Hamburguesa Churrita regular, papas regulares, 1 gaseosa de 500 ml",
           "precio": 16.90,
-          "img":"./img/promo-churrita_3.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/promo-churrita_3.webp?alt=media&token=bd9d0fc4-20b4-41a2-8f62-1ff9b3b42901",
           "categoria": "promociones"
         },
         {
@@ -60,7 +60,7 @@
           "descripcion": "Queso tocino regular",
           "contenido":"1 Queso tocino regular, 1 papa regular",
           "precio": 20.80,
-          "img":"./img/800x800-queso-tocino-papas-nuevo-mayo.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/800x800-queso-tocino-papas-nuevo-mayo.webp?alt=media&token=b1bfa4d9-6b4d-4d5b-a2ef-e798d60aac0b",
           "categoria": "promociones"
         },
         {
@@ -69,7 +69,7 @@
           "descripcion": "Cheesy Tartara",
           "contenido":"¡El mejor combo de hamburguesas en una solo promoción! Disfruta del Combo Cheessy Tártara, que se caracteriza por incluir una exquisita Hamburguesa en salsa tártara + una Hamburguesa con queso, estas dos deliciosas hamburguesas en oferta, sí, dos hamburguesas a un cómodo precio. Incluye: Hamburguesa Cheese: Carne a la parrilla, queso edam derretido, papas al hilo, tomate y lechuga. 1 Hamburguesa en salsa tártara: Carne a la parrilla, papas al hilo y salsa tártara. 2 Papas regulares (con opción a incremento).Clásicas salsas Bembos.",
           "precio": 22.90,
-          "img":"./img/800x800-combo-cheese-tartara-nuevo-abril.webp",
+          "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/800x800-combo-cheese-tartara-nuevo-abril.webp?alt=media&token=ec45abc2-d36c-455c-bef1-506d432abed0",
           "categoria": "promociones"
         }
       ],
@@ -81,7 +81,7 @@
     "descripcion": "Hamburguesa Doble con queso La Peso Pesado",
     "contenido":"Prueba nuestra deliciosa y contundente hamburguesa doble La Peso Pesado! Hecha con:Dos hamburguesas a la parrilla regular, Queso, Lechuga, Mayonesa Bembos",
     "precio": 11.90,
-    "img":"./img/peso-pesado.webp",
+    "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/peso_pesado.webp?alt=media&token=474f8744-f521-4c74-80e0-971e9a790bcb",
     "categoria": "Hamburguesas"
   },
   {
@@ -90,7 +90,7 @@
       "descripcion": "Hamburguesa Clásica a la Parrilla",
       "contenido":" hamburguesa a la parrilla clásica Bembos Con su delicioso sabor ahumado y consistencia característica, este clásico Bembos lleva como ingredientes:Mayonesa, Tomate, Lechuga",
       "precio": 16.90,
-      "img":"./img/pclasica_bembos.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/clasica_bembos.webp?alt=media&token=e8342db3-b4d0-4317-aea7-b5bee5d7f506",
       "categoria": "Hamburguesas"
     },
     {
@@ -99,7 +99,7 @@
       "descripcion": "Hamburguesa a la Parrilla Con Queso",
       "contenido":" Deliciosa Hamburguesa con Queso. ¡Una de las favoritas! Entre sus ingredientes encontramos:Hamburguesa de Carne a la Parrilla, Queso Edam, Mayonesa, Tomate, Lechuga, Además incluye Mayonesa (01), Ketchup (01), Ají Bembos (x1)",
       "precio": 18.90,
-      "img":"./img/cheese.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/cheese.webp?alt=media&token=ddc82e4b-e219-4ca7-81ee-ce8700d2fff0",
       "categoria": "Hamburguesas"
     },
     {
@@ -108,7 +108,7 @@
       "descripcion": "Hamburguesa Bembos con queso y tocino",
       "contenido":" La Hamburguesa Bembos preferida por la mayoría: Una rica combinación de Hamburguesa con Queso y Doble Tocino, uno de los clásicos por excelencia. Ingredientes:Hamburguesa a la parrilla, Doble Tocino, Queso Edam, Mayonesa, Lechuga, Tomate",
       "precio": 19.90,
-      "img":"./img/queso_tocino.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/queso_tocino.webp?alt=media&token=2e49d26a-4b2b-4a87-944c-379e28da4906",
       "categoria": "Hamburguesas"
     },
     {
@@ -117,7 +117,7 @@
       "descripcion": "Hamburguesa Royal con Queso y Huevo",
       "contenido":"¿Con antojo de una royal clásica? Disfruta de nuestra deliciosa Hamburguesa Royal Bembos.Ingredientes:Hamburguesa de Carne a la parrilla,Huevo,Queso Edam,Mayonesa,Lechuga,Tomate",
       "precio": 19.90,
-      "img":"./img/royal.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/royal.webp?alt=media&token=9227550f-f4d3-49c7-a11a-5bae4a904554",
       "categoria": "Hamburguesas"
     },
     {
@@ -126,7 +126,7 @@
       "descripcion": "Hamburguesa Royal con Queso y Huevo",
       "contenido":"¡Disfruta de una de la famosa Hamburguesa Churrita Bembos, la más jugosas hamburguesas de carne a la parrilla! Acompañada de mayonesa de chimichurri y el característico sabor y aroma a parrilla, es toda una experiencia probarla.Ingredientes:Hamburguesa de carne a la parrilla, Tocino, Papas al hilo, Mayonesa de Chimichurri",
       "precio": 20.90,
-      "img":"./img/churrita.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/churrita.webp?alt=media&token=ef60e4ef-6c38-4824-bbc0-d830986d191a",
       "categoria": "Hamburguesas"
     },
     {
@@ -135,7 +135,7 @@
       "descripcion": "Hamburguesa a Lo Pobre con Plátano y Huevo Frito",
       "contenido":"¡Prueba la Bembos más peruana de todas! Disfruta de tu Hamburguesa a lo Pobre preferida, hecha en parrilla y con ese sabor casero que la caracteriza.Ingredientes:Hamburguesa de Carne, Huevo Frito, Plátano Frito, Mayonesa, Tomate, Cebolla Blanca",
       "precio": 20.90,
-      "img":"./img/a_lo_pobre.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/a_lo_pobre.webp?alt=media&token=96101c93-2552-4f15-9e7d-4b77d1f195d3",
       "categoria": "Hamburguesas"
     },
     {
@@ -144,7 +144,7 @@
       "descripcion": "Alemana",
       "contenido":"Hamburguesa a la parrilla, mayonesa Bembos, papas al hilo, pepinillo dulce y salsa Chucrut.",
       "precio": 20.90,
-      "img":"./img/alemana.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/alemana.webp?alt=media&token=1dfabad7-5a12-411b-b565-c6ab6c316827",
       "categoria": "Hamburguesas"
     },
     {
@@ -153,7 +153,7 @@
       "descripcion": "Hamburguesa Parrillera Con Chorizo y Chimichurri",
       "contenido":"Prueba nuestra deliciosa Hamburguesa Parrillera Bembos con Chorizo y Chimichurri, pensada para los amantes de la carne. Con el característico aroma a parrilla, incluye entre sus ingredientes:Hamburguesa de Carne, Chorizo, Tomate, Salsa chimichurri, Mostaza",
       "precio": 23.90,
-      "img":"./img/parrillera.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/parrillera.webp?alt=media&token=892de7e3-d758-44fc-ae5c-15415ba2c555",
       "categoria": "Hamburguesas"
     },
     {
@@ -162,7 +162,7 @@
       "descripcion": "Hamburguesa de carne con pollo deshilachado: La Carretillera",
       "contenido":"Deliciosa hamburguesa de carne a la parrilla con pollo deshilachado, salsa tártara y papitas al hilo. Incluye: Mayonesa x1, Ketchup x1, Ají Bembos x1",
       "precio": 23.90,
-      "img":"./img/carretillera.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/carretillera.webp?alt=media&token=6ab12c49-a6f9-4452-92e8-91b2b9bb294c",
       "categoria": "Hamburguesas"
     },
     {
@@ -171,7 +171,7 @@
       "descripcion": "La Cocona",
       "contenido":"Hamburguesa de res, plátano, jamón ahumado, cebolla, salsa de cocona, lechuga y mayonesa Bembos.",
       "precio": 23.90,
-      "img":"./img/cocona.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/cocona.webp?alt=media&token=04298d78-fd76-48f0-96ee-d6ace1e185c2",
       "categoria": "Hamburguesas"
     },
     {
@@ -180,7 +180,7 @@
       "descripcion": "Hamburguesa doble carne a la parrilla con queso Bembos Extrema",
       "contenido":"Te presentamos a la más contundente de todas: La Bembos Extrema. La hamburguesa de doble carne a la parrilla que entre sus ingredientes encontramos:Doble carne a la parrilla, Queso Edam, Tocino, Tomate, Lechuga, Mayonesa x1, Ketchup x1, Ají Bembos x1",
       "precio": 25.90,
-      "img":"./img/extrema.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/extrema.webp?alt=media&token=cd381cf0-9301-4317-95e5-339cd10f496b",
       "categoria": "Hamburguesas"
     }
 ],
@@ -191,7 +191,7 @@
       "descripcion": "Bembroster clasica",
       "contenido":"Sandwich regular de pollo crocante, mayonesa, lechuga y tomate. Mayonesa x1, Ketchup x1, Ají Bembos x1",
       "precio": 10.90,
-      "img":"./img/bembroster-clasica.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/bembroster-clasica.webp?alt=media&token=00eabc53-a412-4808-bc63-40821f2b3538",
       "categoria": "pollo"
       
   },
@@ -201,7 +201,7 @@
       "descripcion": "Sandwich de Pollo Crujiente Bembroster con Tártaraa",
       "contenido":"Nuestro delicioso sandwich de pollo con salsa tártara Bembroster. Contiene:Pollo broaster crujiente, Papas fritas, Lechuga",
       "precio": 11.90,
-      "img":"./img/bembroster_tartara.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/bembroster_tartara.webp?alt=media&token=3cf8f369-8332-4ea7-b552-5a8e60e13235",
       "categoria": "pollo"
       
   },
@@ -211,7 +211,7 @@
       "descripcion": "Sandwich de Pollo Bembroster con Queso y Tocino",
       "contenido":"Prueba nuestro delicioso y crocante sandwich de pollo Bembroster. Viene acompañada de:queso edam, tocino, mayonesa lechuga y tomate.",
       "precio": 12.90,
-      "img":"./img/bembroster-queso-tocino.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/bembroster-queso-tocino.webp?alt=media&token=3ca7234a-2061-4855-a9af-28dbf67f50ab",
       "categoria": "pollo"
       
   },
@@ -221,7 +221,7 @@
       "descripcion": "Sandwich de pollo a la parrilla",
       "contenido":"Delicioso Sandwich de Pechuga de pollo a la parrilla, Entre sus ingredientes encontramos:Pollo marinado a la parrilla, Lechuga, Tomate, Mayonesa",
       "precio": 16.90,
-      "img":"./img/chicken-girll.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/chicken-girll.webp?alt=media&token=9c81070f-cf0a-453f-b1d4-271789cdadf0",
       "categoria": "pollo"
       
   }
@@ -233,7 +233,7 @@
       "descripcion": "Loncherita Básica",
       "contenido":"1 Hamburguesa básica regular, 1 Papa Regular y 1 Frugo",
       "precio": 10.90,
-      "img":"./img/loncherita-basica_1.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/loncherita-basica_1.webp?alt=media&token=df55453f-5278-4f9e-b725-07570fdb2c3a",
       "categoria": "loncheritas"
       
   },
@@ -243,7 +243,7 @@
       "descripcion": "Loncherita Nuggets",
       "contenido":"Nuggets x4, 1 Papa Regular y 1 Frugo",
       "precio": 11.90,
-      "img":"./img/loncherita-nuggets_1.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/loncherita-nuggets_1.webp?alt=media&token=ab7396b5-3c76-4a8e-a37a-300288b5e9df",
       "categoria": "loncheritas"
       
   },
@@ -253,7 +253,7 @@
       "descripcion": "Loncherita básica de pollo",
       "contenido":"1 Hamburguesa de pollo regular, 1 Papa Regular y 1 Frugo",
       "precio": 10.90,
-      "img":"./img/loncherita-basica-pollo.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/loncherita-basica-pollo.webp?alt=media&token=15a53da4-4d60-4ed4-9539-fbdd4e53040c",
       "categoria": "loncheritas"
       
   }
@@ -270,7 +270,7 @@
                   "precio": 3.90
                   }
                   ],
-      "img":"./img/inka-chips-nueva.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/inka-chips-nueva.webp?alt=media&token=7f06b3b1-35e4-4061-a14f-f29f6c468ebe",
       "categoria": "complementos"
       
   },
@@ -297,7 +297,7 @@
 
                }
               ],
-      "img":"./img/papas-fritas_2.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/papas-fritas_2.webp?alt=media&token=3106539b-38ce-44f8-8515-adddbf4e31c6",
       "categoria": "complementos"
       
   },
@@ -318,7 +318,7 @@
 
                }
               ],
-      "img":"./img/nuggets_9.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/nuggets_9.webp?alt=media&token=8c9e16c2-e7e4-460b-abe7-8d1b9406467d",
       "categoria": "complementos"
       
   },
@@ -342,7 +342,7 @@
                   "precio":"16.90"
                }
               ],
-      "img":"./img/cheese-fingers_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/cheese-fingers_3.webp?alt=media&token=32cfad32-dc34-4a89-9723-16b74e9fd910",
       "categoria": "complementos"
       
   },
@@ -356,7 +356,7 @@
                   "precio":"22.90"
               }
               ],
-      "img":"./img/piqueo-nuevo-abril.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/piqueo-nuevo-abril.webp?alt=media&token=3659e9d1-14f9-47e6-8bdd-0e2e7d1a29bb",
       "categoria": "complementos"
       
   }
@@ -369,7 +369,7 @@
       "descripcion": "Agua San Luis S/A",
       "contenido":"Si quieres un combo más saludable Bembos te da la opción de agregar como bebida el Agua mineral San Luis de 625 ml",
       "precio": 4.90,
-      "img":"./img/agua-san-luis.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/agua-san-luis.webp?alt=media&token=6ffe3a14-d018-4c9f-9ec3-f2cde2886628",
       "categoria": "bebidas"
       
   },
@@ -379,7 +379,7 @@
       "descripcion": "Fanta Sabor Original 500 ml",
       "contenido":"Acompaña tu combo con Fanta Sabor Original de 500 ml. ",
       "precio": 5.90,
-      "img":"./img/fanta_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/fanta_3.webp?alt=media&token=1b105deb-9fd6-4fbf-8abf-199c8ca2319f",
       "categoria": "bebidas"
       
   },
@@ -389,7 +389,7 @@
       "descripcion": "Sprite Sabor Original 500 ml",
       "contenido":"Sprite Sabor Original 500 ml",
       "precio": 5.90,
-      "img":"./img/sprite_4.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/sprite_4.webp?alt=media&token=aa54d352-8191-4794-b902-a07bf4b238cf",
       "categoria": "bebidas"
       
   },
@@ -399,7 +399,7 @@
       "descripcion": "Inca kola Sin Azúcar 500 ml",
       "contenido":"Inca kola Sin Azúcar 500 ml",
       "precio": 4.90,
-      "img":"./img/inca-kola-sin-azucar_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/inca-kola-sin-azucar_3.webp?alt=media&token=cf618544-c41a-4abb-922a-942ccb0340f6",
       "categoria": "bebidas"
       
   },
@@ -409,7 +409,7 @@
       "descripcion": "Inca kola  500 ml",
       "contenido":"Inca kola  500 ml",
       "precio": 4.90,
-      "img":"./img/inca-kola-original_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/inca-kola-original_3.webp?alt=media&token=38101b1a-7f14-4eac-bc89-5e67e409cc92",
       "categoria": "bebidas"
       
   },
@@ -419,7 +419,7 @@
       "descripcion": "Coca Cola Sin Azúcar 500 ml",
       "contenido":"Si quieres hacer tu combo más saludable Bembos te da la opción de agregar como bebida Coca Cola Sin Azúcar de 500 ml. ",
       "precio": 5.90,
-      "img":"./img/coca-cola-sin-azucar_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/coca-cola-sin-azucar_3.webp?alt=media&token=92d2b3b2-392e-4383-b391-d89d167a9a5a",
       "categoria": "bebidas"
       
   },
@@ -429,7 +429,7 @@
       "descripcion": "Coca Cola Sabor Original 500 ml",
       "contenido":"Acompaña tu combo con Coca Cola sabor original de 500 ml.",
       "precio": 5.90,
-      "img":"./img/coca-cola-original_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/coca-cola-original_3.webp?alt=media&token=169fac47-6d5a-4dce-9bbf-a5bb010c5a08",
       "categoria": "bebidas"
       
   }
@@ -441,7 +441,7 @@
       "descripcion": "Helado Mini Princesa",
       "contenido":"Helado Mini Princesa",
       "precio": 3.90,
-      "img":"./img/mini-princesa_3.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/mini-princesa_3.webp?alt=media&token=322a8083-d52d-47f8-b256-0a70d53b8c88",
       "categoria": "helados"
       
   },
@@ -451,7 +451,7 @@
       "descripcion": "Choco Mani",
       "contenido":"Helado de vainilla con maní, cobertura de chocolate y fudge.",
       "precio": 11.90,
-      "img":"./img/choco-mani-nuevo-mayo-800x80.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/choco-mani-nuevo-mayo-800x80.webp?alt=media&token=907678a8-d1f8-485b-8ab8-e24ad1b8ad53",
       "categoria": "helados"
       
   },
@@ -461,7 +461,7 @@
       "descripcion": "Helado Princesa",
       "contenido":"Helado de vainilla con trozos de chocolate princesa y fudge.",
       "precio": 11.90,
-      "img":"./img/800x800-princesa-nuevo-abril.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/800x800-princesa-nuevo-abril.webp?alt=media&token=f0576d32-8af8-48d3-9730-8953ba80af1a",
       "categoria": "helados"
       
   }
@@ -473,7 +473,7 @@
       "descripcion": "inka-chips",
       "contenido":"inka-chips",
       "precio": 3.00,
-      "img":"./img/800x1370-inka-chips-nueva.webp",
+      "img":"https://firebasestorage.googleapis.com/v0/b/bemb-idt.appspot.com/o/800x1370-inka-chips-nueva.webp?alt=media&token=6e16e1bd-9416-4631-bdc5-5c2189c7618c",
       "categoria": "inka chips"
       
   }
